@@ -86,7 +86,7 @@ const HomePage: React.FC<HomePageProps> = () => {
                   src={item.imageUrl}
                   alt={item.title}
                   width={500} // Adjust width as needed
-                  height={300} // Adjust height as needed
+                  height={500} // Adjust height as needed
                   className="object-cover rounded-lg shadow-md mb-4 w-full h-64"
                 />
                 <h3
